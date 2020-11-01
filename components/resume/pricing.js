@@ -1,5 +1,6 @@
 import React from 'react';
 import PricingFour from '../../../elements/price/element/price4';
+
 import {Container,Row,Col} from 'reactstrap'
 const Pricing = () => (
     <section className="resume pricing bg-pink" id="pricing">

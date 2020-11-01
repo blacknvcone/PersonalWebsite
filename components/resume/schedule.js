@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScheduleData } from '../../../../database/layouts/resume/database';
+import { ScheduleData } from '../../database/layouts/resume/database';
 import {Container,Row,Col} from 'reactstrap'
 const Schedule = () => (
     <section className="resume schedule">

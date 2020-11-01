@@ -1,5 +1,5 @@
 import React from 'react';
-import { AboutData } from '../../../../database/layouts/resume/database';
+import { AboutData } from '../../database/layouts/resume/database';
 import {Container,Row,Col} from 'reactstrap'
 const About = () => (
     <section className="resume about" id="about">

@@ -1,5 +1,5 @@
 import React from 'react';
-import Portfolio from '../../../../containers/portfolio/basic'
+import Portfolio from '../../containers/portfolio/basic'
 import {Row,Col} from 'reactstrap'
 const Section = () => (
     <section className="resume portfolio-section zoom-gallery">
