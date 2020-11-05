@@ -65,12 +65,12 @@ module.exports = {
         {
             img: '/assets/images/resume/icon/1.png',
             count: 1510,
-            desc: 'Satisfied Customers'
+            desc: 'Total Clients'
         },
         {
             img: '/assets/images/resume/icon/2.png',
             count: 306,
-            desc: 'Total Speaker'
+            desc: 'Total Project'
         },
         {
             img: '/assets/images/resume/icon/3.png',
@@ -80,7 +80,7 @@ module.exports = {
         {
             img: '/assets/images/resume/icon/4.png',
             count: 12,
-            desc: 'Awwards Winning'
+            desc: 'Certification'
         },
     ],
 

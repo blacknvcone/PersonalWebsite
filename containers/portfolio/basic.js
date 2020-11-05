@@ -46,7 +46,7 @@ const AllImg = [
 ]
 
 const Basic = ({ className, title, subTitle, fluid }) => {
-    
+
     const initilindex = { index: 0 }
     const [photoIndex, setPhotoIndex] = useState(initilindex)
 
@@ -67,22 +67,17 @@ const Basic = ({ className, title, subTitle, fluid }) => {
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '2' ? 'active' : ''} onClick={() => setActiveTab('2')}>
-                                            Fashion
+                                            Core Apps (Backend)
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '3' ? 'active' : ''} onClick={() => setActiveTab('3')}>
-                                            Bags
+                                            Web Apps
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '4' ? 'active' : ''} onClick={() => setActiveTab('4')}>
-                                            Shoes
-                                        </NavLink>
-                                    </NavItem>
-                                    <NavItem>
-                                        <NavLink className={activeTab == '5' ? 'active' : ''} onClick={() => setActiveTab('5')}>
-                                            Watch
+                                            Mobile
                                         </NavLink>
                                     </NavItem>
                                 </Nav>

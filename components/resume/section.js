@@ -9,7 +9,7 @@ const Section = () => (
                     <h6 className="font-primary borders main-text text-uppercase"><span>work</span></h6>
                     <div className="sub-title">
                         <div>
-                            <h2 className="title-text">my latest work</h2>
+                            <h2 className="title-text">my latest Project</h2>
                         </div>
                     </div>
                 </div>

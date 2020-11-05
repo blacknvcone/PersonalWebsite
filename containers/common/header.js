@@ -24,7 +24,7 @@ const Header = props => {
                                     <img alt="" className="img-fluid" src="/assets/images/logo/9.png" />
                                     :
                                     props.className == 'dark' ?
-                                        <img alt="" className="img-fluid" src="/assets/images/logo/5.png" />
+                                        <img alt="" className="img-fluid" src="/assets/images/logo/my_logo_new.png" />
                                         :
                                         props.className == 'dark position-relative ecommerce' ?
                                             <img alt="" className="img-fluid" src="/assets/images/logo/5.png" />
