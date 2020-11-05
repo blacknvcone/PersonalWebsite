@@ -86,67 +86,87 @@ module.exports = {
 
     ServiceData: [
         {
-            img: '/assets/images/resume/service-exprience/1.png',
-            name: 'UI design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            img: '/assets/images/resume/service-exprience/3.png',
+            name: 'API Services',
+            desc: 'Build an custom API services (Core) using microservices architecture.'
         },
         {
-            img: '/assets/images/resume/service-exprience/2.png',
-            name: 'UX design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            img: '/assets/images/resume/service-exprience/1.png',
+            name: 'PHP Development',
+            desc: 'Building PHP apps using an framework agnostic (Laravel).'
         },
         {
             img: '/assets/images/resume/service-exprience/5.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
-        },
-        {
-            img: '/assets/images/resume/service-exprience/6.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Mobile Development',
+            desc: 'Building android apps include designed an UI too.'
         },
         {
             img: '/assets/images/resume/service-exprience/3.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Cloud Engineering',
+            desc: 'Setup and managing cloud based services specially with Google Cloud Services.'
         },
         {
             img: '/assets/images/resume/service-exprience/4.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'API Management',
+            desc: 'Setup and managing API Management engine for securing and better realibilty, specially with Kong API Management.'
         },
         {
             img: '/assets/images/resume/service-exprience/7.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Java Script',
+            desc: 'Building Java Script apps specially for API Engine base such as express.js and for UI im using react.js / next.js.'
         },
         {
             img: '/assets/images/resume/service-exprience/8.png',
             name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            desc: 'Build an design Web UX for better experience for user'
+        },
+        {
+          img: '/assets/images/resume/service-exprience/8.png',
+          name: 'System Analyst',
+          desc: 'Design and analyzing requirement system some apps, depends on client needed.'
         },
     ],
 
     AboutData: [
         {
-            name: 'Photoshop',
+            name: 'Java',
             timer: '95%',
-            exp: '4 Years Experince'
+            exp: '2 Years Experience'
         },
         {
-            name: 'illustrator',
+            name: 'Php',
             timer: '95%',
-            exp: '4 Years Experince'
+            exp: '4 Years Experience'
         },
         {
-            name: 'html & css',
-            timer: '95%',
-            exp: '4 Years Experince'
+            name: 'HTML & CSS',
+            timer: '85%',
+            exp: '4 Years Experience'
         },
         {
-            name: 'wordpress',
-            timer: '95%',
-            exp: '4 Years Experince'
+            name: 'Javascript',
+            timer: '90%',
+            exp: '2 Years Experience'
+        },
+        {
+          name: 'Networking',
+          timer: '80%',
+          exp: '2 Years Experience'
+        },
+        {
+          name: 'Sysadmin',
+          timer: '80%',
+          exp: '2 Years Experience'
+        },
+        {
+          name: 'DevOps',
+          timer: '75%',
+          exp: '1 Years Experience'
+        },
+        {
+          name: 'Mobile Development (Android)',
+          timer: '85%',
+          exp: '2 Years Experience'
         }
     ],
 

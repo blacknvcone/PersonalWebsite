@@ -93,7 +93,7 @@ export default function MyApp({ Component, pageProps, graphql }) {
     <div>
       <MyFunctionComponent>
         <Component {...pageProps} />
-        <Customizer />
+        {/*<Customizer />*/}
       </MyFunctionComponent>
       <ToastContainer />
     </div>

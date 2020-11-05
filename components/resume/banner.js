@@ -14,13 +14,13 @@ const Banner = () => (
                             <div className="center-text">
                                 <div>
                                     <div className="header-sub-text">
-                                        <h5 className="text-hash text-uppercase"># resume</h5>
+                                        <h5 className="text-hash text-uppercase"># Welcome</h5>
                                     </div>
                                     <div className="header-text">
-                                        <h1><span className="bold-text">Hi, I’m</span><br /> Elana Parker</h1>
+                                        <h1><span className="bold-text">Hi, I’m</span><br /> Dani Prasetya</h1>
                                     </div>
                                     <div className="header-sub-text">
-                                        <h4 className="font-secondary">Html , <span className="typed-resume"><Typed
+                                        <h4 className="font-secondary">Java, Php, API Management, <span className="typed-resume"><Typed
                                                 strings={['Css, Bootstrap, Java Script']}
                                                 typeSpeed={80}
                                                 backSpeed={50}
@@ -29,14 +29,13 @@ const Banner = () => (
                                             </Typed></span></h4>
                                     </div>
                                     <div className="header-sub-text">
-                                        <p className="font-secondary font-large">Lorem Ipsum is simply dummy text of the
-                                            printing andtypesetting
-                                            industry. Lorem Ipsum has been the industry's standard dummy textever since the
-                                        1500s, when an unknown.</p>
+                                        <p className="font-secondary font-large">Mostly everyone called me dani, im the developer
+                                        who always curious with new tech. Specialized building API with microservices architecture
+                                         and having experience more than 3 years as Fullstack developer. Sometimes i was handling networking
+                                          and sysadmin too. <b>So...who am i ?</b> </p>
                                     </div>
                                     <div className="link-horizontal">
                                         <ul>
-                                            <li><a className="btn btn-default primary-btn back-white">know more</a></li>
                                             <li><a className="btn btn-default primary-btn back-white">download cv</a></li>
                                         </ul>
                                     </div>

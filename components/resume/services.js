@@ -1,5 +1,5 @@
 import React from 'react';
-import { ServiceData } from '../../database/layouts/resume/database'
+import { ServiceData } from '../../database/resume/database'
 import {Container,Row,Col} from 'reactstrap'
 const Services = () => (
     <section className="resume services bg-pink">
